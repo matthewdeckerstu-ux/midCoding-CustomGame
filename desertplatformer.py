@@ -1,4 +1,5 @@
-import pygame, sys
+import pygame
+import sys
 pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
